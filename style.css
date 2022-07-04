@@ -80,6 +80,7 @@ a{
     margin: 6%;
     padding: 2%;
     border-radius: 10px;
+    border-left: 7px solid teal;
 }
 .half-width-cardtwo{
     box-shadow: 5px 5px 5px 5px #00000033;
@@ -88,6 +89,7 @@ a{
     padding-right: 5%;
     background-color: white;
     margin: 6%;
+    border-left: 7px solid goldenrod;
     padding: 2%;
     border-radius: 10px;
 }
@@ -99,6 +101,9 @@ a{
 }
 .bottom-section{
     margin-bottom: 50px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left;
 }
 footer{
     text-align: center;
